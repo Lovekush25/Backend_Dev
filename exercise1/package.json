@@ -1,0 +1,13 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "main": "node.js",
+  "scripts": {
+    "dev":"node node.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type":"commonjs"
+}
