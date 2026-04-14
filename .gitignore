@@ -1,0 +1,4 @@
+Payroll_Project/node_modules/
+# Ignore local logs and env files
+*.log
+.env
